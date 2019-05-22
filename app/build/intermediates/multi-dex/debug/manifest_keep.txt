@@ -1,0 +1,32 @@
+-keep class com.tencent.qcloud.xiaozhibo.TCApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.tencent.qcloud.xiaozhibo.mainui.TCSplashActivity { <init>(); }
+-keep class com.tencent.qalsdk.QALBroadcastReceiver { <init>(); }
+-keep class com.tencent.qalsdk.core.NetConnInfoCenter { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.login.TCLoginActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.login.TCRegisterActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.mainui.TCMainActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.push.TCPublishSettingActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.play.TCLivePlayerActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.play.TCVodPlayerActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.push.camera.TCLivePublisherActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.userinfo.TCEditUseInfoActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.videopublish.TCVideoPublisherActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.push.screen.TCScreenRecordActivity { <init>(); }
+-keep class com.tencent.rtmp.video.TXScreenCapture$TXScreenCaptureAssistantActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.WBShareActivity { <init>(); }
+-keep class com.sina.weibo.sdk.component.WeiboSdkBrowser { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.wxapi.WXEntryActivity { <init>(); }
+-keep class com.umeng.qq.tencent.AuthActivity { <init>(); }
+-keep class com.umeng.qq.tencent.AssistActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.common.activity.videochoose.TCVideoChooseActivity { <init>(); }
+-keep class android.support.v4.content.FileProvider { <init>(); }
+-keep class com.sina.weibo.sdk.net.DownloadService { <init>(); }
+-keep class com.umeng.socialize.editorpage.ShareActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaozhibo.push.screen.TCScreenRecordService { <init>(); }
+-keep class com.tencent.imsdk.session.remote.SessionService { <init>(); }
+-keep class com.tencent.imsdk.session.remote.AssistService { <init>(); }
+-keep class com.tencent.imsdk.session.remote.KeepAliveJobService { <init>(); }
+-keep class com.tencent.imsdk.session.SessionBroadcastReceiver { <init>(); }

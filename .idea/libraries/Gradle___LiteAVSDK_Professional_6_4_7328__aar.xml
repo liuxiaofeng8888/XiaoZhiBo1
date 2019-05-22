@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :LiteAVSDK_Professional_6.4.7328:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LiteAVSDK_Professional_6.4.7328/jars/libs/LiteAVSDK_Professional.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LiteAVSDK_Professional_6.4.7328/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LiteAVSDK_Professional_6.4.7328/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

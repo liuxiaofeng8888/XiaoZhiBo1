@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_video_record.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_video_record.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/umeng_socialize_oauth_dialog.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_video_preview.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_video_preview.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/fragment_user_info.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/fragment_user_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/popup_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/popup_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/tab_button.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/tab_button.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/item_bgm_edit_view.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/item_bgm_edit_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/swipe_menu_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/swipe_menu_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/compose_record_btn.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/compose_record_btn.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_video_joiner.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_video_joiner.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/view_title.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/view_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/dialog_publish_detail.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/dialog_publish_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/fragment_publisher.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/fragment_publisher.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/view_floating_default.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/view_floating_default.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_text_edit.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_text_edit.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/layout_progress_bar.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/layout_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/audio_ctrl_music_list.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/audio_ctrl_music_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/layout_periscope.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/layout_periscope.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/green_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/green_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/listview_ugc_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/listview_ugc_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/titlebar.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/titlebar.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_ugc_video_list.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_ugc_video_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/dialog_pic_choose.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/dialog_pic_choose.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/item_word.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/item_word.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/umeng_menu.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/umeng_menu.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_live_play.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_live_play.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/item_user_avatar.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/item_user_avatar.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_video_editer.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_video_editer.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/filter_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/filter_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/item_ugc_video.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/item_ugc_video.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/listview_video_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/listview_video_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/dialog_ugc_tip.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/dialog_ugc_tip.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_video_joiner_preview.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_video_joiner_preview.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_screen_record.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_screen_record.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/item_edit_view.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/item_edit_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/edit_pannel.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/edit_pannel.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_publish.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_publish.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/fragment_loading.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/fragment_loading.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/layout_joiner_progress.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/layout_joiner_progress.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/fragment_word_input.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/fragment_word_input.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/item_editer_bgm.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/item_editer_bgm.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_video_publisher.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_video_publisher.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_edit_user_info.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_edit_user_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/view_line_controller.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/view_line_controller.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/tab_button1.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/tab_button1.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/umeng_share.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/umeng_share.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/dialog_input_text.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/dialog_input_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/surface_view_test.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/surface_view_test.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/dialog_ugcedit_publish.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/dialog_ugcedit_publish.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/audio_ctrl_music_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/audio_ctrl_music_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/layout_default_operation_view.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/layout_default_operation_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/umeng_check.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/umeng_check.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_word_editor.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_word_editor.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/liveframent_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/liveframent_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/fragment_beauty_area.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/fragment_beauty_area.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/audio_ctrl.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/audio_ctrl.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/fragment_videolist.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/fragment_videolist.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/item_word_edit_view.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/item_word_edit_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/camera_grid_item_video.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/camera_grid_item_video.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/view_selet_sex.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/view_selet_sex.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/swipe_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/swipe_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/umeng_auth.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/umeng_auth.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/umeng_socialize_share.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/umeng_socialize_share.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/share_dialog.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/share_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/listview_msg_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/listview_msg_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_publish_setting.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_publish_setting.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/view_line_edit_text.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/view_line_edit_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/layout_chose_music.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/layout_chose_music.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/activity_vod_play.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/activity_vod_play.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/ugc_audio_ctrl_music_list.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/ugc_audio_ctrl_music_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/loading.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/loading.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/ugc_audio_ctrl.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/ugc_audio_ctrl.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/layout/layout_live_pusher_info.xml",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/layout/layout_live_pusher_info.xml"
+    }
+]

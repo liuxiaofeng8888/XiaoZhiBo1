@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/lock_off.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/lock_off.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/lock_on.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/lock_on.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/home.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/home.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/camera_on.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/camera_on.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/btn_return.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/btn_return.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/recording_background_vertical.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/recording_background_vertical.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/float_logo.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/float_logo.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/camera_off.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/camera_off.png"
+    }
+]

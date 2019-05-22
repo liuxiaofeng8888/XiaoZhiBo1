@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/recording_background_private_horizontal.jpg",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/recording_background_private_horizontal.jpg"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/recording_background_horizontal.jpg",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/recording_background_horizontal.jpg"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/recording_background_private_vertical.jpg",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/mipmap-xxhdpi/recording_background_private_vertical.jpg"
+    }
+]

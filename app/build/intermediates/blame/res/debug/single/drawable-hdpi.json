@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/start_record.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/start_record.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/seekbar_line_highlight.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/seekbar_line_highlight.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_flash_png.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/icon_flash_png.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/video_press.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/video_press.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/seekbar_line.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/seekbar_line.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/qr_code.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/qr_code.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/mic_black.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/mic_black.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/beauty_seekbar_icon.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/beauty_seekbar_icon.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_beauty_png.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/icon_beauty_png.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/motion_press.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/motion_press.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/music_big.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/music_big.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/mic.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/mic.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/switch_off.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/switch_off.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/stop_record.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/stop_record.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/music_black.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/music_black.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/again.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/again.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/switch_press.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/switch_press.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/scan.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/scan.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_message_png.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/icon_message_png.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/music_item_selected.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/music_item_selected.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/music_choice.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/music_choice.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/video.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/video.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_switch_camera_on.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/icon_switch_camera_on.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/switch_on.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/switch_on.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/circle.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/circle.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/build/intermediates/res/merged/debug/drawable-hdpi/music.png",
+        "source": "/Users/mac/Downloads/MLVBSDK-master/Android/XiaoZhiBo/app/src/main/res/drawable-hdpi/music.png"
+    }
+]
